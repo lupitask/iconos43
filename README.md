@@ -8,9 +8,15 @@ Repositorio de códigos de la generación 43 de la Maestría en Comunicación co
 - **[youtube.com/jonmircha](https://youtube.com/jonmircha)**
 - **[jonmircha@gmail.com](mailto:jonmircha@gmail.com)**
 
-## [Estudiantes]()
+## [Estudiantes](https://docs.google.com/spreadsheets/d/1nUdUS1biBlY7-ZndOMcHlL5KbuRJFHb5w2wtwmuHFuU/edit?ts=5f37db52#gid=1890464159)
 
-- ???
+- vdl.natalia@gmail.com
+- isela.bl@gmail.com
+- lauraolmos@outlook.com
+- martha.ptb@gmail.com
+- ignaciojrp@gmail.com
+- acastro.didg@gmail.com
+- adrian.edr@gmail.com
 
 ## Estructuras para el diseño de interfaces Web
 
@@ -59,7 +65,7 @@ Repositorio de códigos de la generación 43 de la Maestría en Comunicación co
 
 - 50% Actividades.
 - 50% Sitio _Web_:
-  - Fecha de entrega **Jueves 19 de Septiembre de 2020 a más tardar a las 23:59:59hrs**
+  - Fecha de entrega **Jueves 17 de Septiembre de 2020 a más tardar a las 23:59:59hrs**
   - El sitio deberá estar hecho en _Bootstrap 4_.
   - Mínimo 5 páginas / secciones de contenido .
   - Cualquier plagio de código del sitio hecho en clase será penalizado.
