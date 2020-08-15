@@ -51,21 +51,40 @@ Repositorio de códigos de la generación 43 de la Maestría en Comunicación co
   - Integrando componentes _CSS_.
   - Integrando componentes _JS_.
   - Integrando elementos de formulario.
-- Herramientas de _Marketing Digital_ para sitios web.
+- Herramientas de _Marketing Digital_ para sitios _web_.
 
 ## Recursos
 
-- ???
+- [CSS Reference](https://cssreference.io/)
+- [Configuración de VSCode](https://jonmircha.com/vscode)
+- [Emmet.io](https://emmet.io/)
+- [¿Por qué aplicar box-sizing?](https://www.paulirish.com/2012/box-sizing-border-box-ftw/)
 
 ## Actividades
 
-- ???
+Escala de Actividades 🤓-🤔-😬
+
+1. Prueba de maquetación _web_ (clase 1).
+1. ¿Qué voy a hacer de proyecto? (clase 2).
+1. Diseñar un [_wireframe_](https://jonmircha.com/img/wireframe.jpg) del _home_ de mi sitio versión (_mobile_ y _desktop_).
+
+| Estudiante        | Actividad 1 | Actividad 2 | Actividad 3 |
+| ----------------- | ----------- | ----------- | ----------- |
+| Laura Olmos       | 🤓          |             |             |
+| Natalia Velázquez | 🤔          |             |             |
+| Edrei Pardo       | 😬          |             |             |
+| Adrian Castro     | 🤓          |             |             |
+| Ignacio Rivera    | 🤓          |             |             |
+| Martha Tejeda     | 🤔          |             |             |
+| Isela Bernal      | 😬          |             |             |
+| Perla Álvarez     | 😬          |             |             |
+| Guadalupe Sánchez | 🤔          |             |             |
 
 ## Evaluación
 
 - 50% Actividades.
 - 50% Sitio _Web_:
-  - Fecha de entrega **Jueves 17 de Septiembre de 2020 a más tardar a las 23:59:59hrs**
+  - Fecha de entrega **Jueves 17 de Septiembre de 2020 a más tardar a las 23:59:59hrs**.
   - El sitio deberá estar hecho en _Bootstrap 4_.
   - Mínimo 5 páginas / secciones de contenido .
   - Cualquier plagio de código del sitio hecho en clase será penalizado.
