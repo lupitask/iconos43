@@ -80,7 +80,7 @@ Escala de Actividades 🤓-🤔-😬
 | Adrian Castro     | 🤓          |             |             |
 | Ignacio Rivera    | 🤓          |             |             |
 | Martha Tejeda     | 🤔          |             |             |
-| Isela Bernal      | 😬          |             |             |
+| Isela Bernal      | 🤔          |             |             |
 | Perla Álvarez     | 😬          |             |             |
 | Guadalupe Sánchez | 🤔          |             |             |
 

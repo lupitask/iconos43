@@ -1,0 +1,109 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Prueba Maquetación</title>
+  <style>
+    html {
+      box-sizing: border-box;
+    }
+
+    *,
+    *:after,
+    *:before {
+      box-sizing: inherit;
+    }
+
+    .row {
+      display: flex;
+      flex-wrap: wrap;
+    }
+
+    .column {
+      border: thin solid #000;
+      background-color: aqua;
+      width: 100%;
+    }
+
+    .col {
+      width: 100%;
+    }
+
+    @media screen and (min-width: 768px) {
+      .column {
+        width: 50%;
+      }
+    }
+
+    @media screen and (min-width: 1024px) {
+      .column {
+        width: 33.33333333333333%;
+      }
+
+      .col {
+        width: 50%;
+      }
+
+      .order-1 {
+        order: 1;
+      }
+    }
+
+    @media screen and (min-width: 1200px) {
+      .column {
+        width: 25%;
+      }
+    }
+  </style>
+</head>
+
+<body>
+  <h1>Prueba de Maquetación</h1>
+  <h2>Column Layout</h2>
+  <section class="row">
+    <article class="column">Elemento 1</article>
+    <article class="column">Elemento 2</article>
+    <article class="column">Elemento 3</article>
+    <article class="column">Elemento 4</article>
+    <article class="column">Elemento 5</article>
+    <article class="column">Elemento 6</article>
+    <article class="column">Elemento 7</article>
+    <article class="column">Elemento 8</article>
+    <article class="column">Elemento 9</article>
+    <article class="column">Elemento 10</article>
+    <article class="column">Elemento 11</article>
+    <article class="column">Elemento 12</article>
+    <article class="column">Elemento 13</article>
+    <article class="column">Elemento 14</article>
+    <article class="column">Elemento 15</article>
+    <article class="column">Elemento 16</article>
+    <article class="column">Elemento 17</article>
+    <article class="column">Elemento 18</article>
+    <article class="column">Elemento 19</article>
+  </section>
+  <h2>Split Layout</h2>
+  <section class="row">
+    <article class="col">
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum aut quibusdam, dolore, minus iure nesciunt
+        doloremque minima odio deserunt aspernatur excepturi expedita dignissimos amet saepe sapiente repellat ullam
+        deleniti inventore?</p>
+    </article>
+    <article class="col">
+      <img src="https://placeimg.com/400/400/animals" alt="">
+    </article>
+  </section>
+  <section class="row">
+    <article class="col order-1">
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cum aut quibusdam, dolore, minus iure nesciunt
+        doloremque minima odio deserunt aspernatur excepturi expedita dignissimos amet saepe sapiente repellat ullam
+        deleniti inventore?</p>
+    </article>
+    <article class="col">
+      <img src="https://placeimg.com/400/400/nature" alt="">
+    </article>
+  </section>
+</body>
+
+</html>
