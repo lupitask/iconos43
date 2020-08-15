@@ -59,6 +59,10 @@ Repositorio de códigos de la generación 43 de la Maestría en Comunicación co
 - [Configuración de VSCode](https://jonmircha.com/vscode)
 - [Emmet.io](https://emmet.io/)
 - [¿Por qué aplicar box-sizing?](https://www.paulirish.com/2012/box-sizing-border-box-ftw/)
+- [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+- [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
+- [Flexbox CSS - Blog jonmircha](https://jonmircha.com/flexbox)
+- [Curso de Flexbox CSS](https://www.youtube.com/playlist?list=PLvq-jIkSeTUbQc3dGsssp8lxAi5npMrys)
 
 ## Actividades
 
@@ -66,7 +70,7 @@ Escala de Actividades 🤓-🤔-😬
 
 1. Prueba de maquetación _web_ (clase 1).
 1. ¿Qué voy a hacer de proyecto? (clase 2).
-1. Diseñar un [_wireframe_](https://jonmircha.com/img/wireframe.jpg) del _home_ de mi sitio versión (_mobile_ y _desktop_).
+1. Diseñar un [_wireframe_](https://jonmircha.com/img/wireframe.jpg) del _home_ de mi sitio versión (_mobile_ y _desktop_) (clase 2).
 
 | Estudiante        | Actividad 1 | Actividad 2 | Actividad 3 |
 | ----------------- | ----------- | ----------- | ----------- |
