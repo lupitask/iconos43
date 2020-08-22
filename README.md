@@ -63,6 +63,14 @@ Repositorio de códigos de la generación 43 de la Maestría en Comunicación co
 - [A Complete Guide to Grid](https://css-tricks.com/snippets/css/complete-guide-grid/)
 - [Flexbox CSS - Blog jonmircha](https://jonmircha.com/flexbox)
 - [Curso de Flexbox CSS](https://www.youtube.com/playlist?list=PLvq-jIkSeTUbQc3dGsssp8lxAi5npMrys)
+- [960 Grid System](https://960.gs/)
+- [Bootstrap](https://getbootstrap.com/)
+- [Foundation](https://get.foundation/index.html)
+- [Materialize](https://materializecss.com/)
+- [Pure CSS](https://purecss.io/)
+- [Bulma](https://bulma.io/)
+- [Semantic UI](https://semantic-ui.com/)
+- [TailWind](https://tailwindcss.com/)
 
 ## Actividades
 
