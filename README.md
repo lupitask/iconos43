@@ -74,6 +74,8 @@ Repositorio de códigos de la generación 43 de la Maestría en Comunicación co
 - [Bootstrap Material Design](https://mdbootstrap.com/)
 - [Bootswatch](https://bootswatch.com/)
 - [Avant UI](https://www.avantui.com/)
+- [CDN JS](https://cdnjs.cloudflare.com/)
+- [FontAwesome](https://fontawesome.com/)
 
 ## Actividades
 
