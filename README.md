@@ -79,23 +79,24 @@ Repositorio de códigos de la generación 43 de la Maestría en Comunicación co
 
 ## Actividades
 
-Escala de Actividades 🤓-🤔-😬
+Escala de Actividades 🤓-🤔-😬-❌
 
 1. Prueba de maquetación _web_ (clase 1).
 1. ¿Qué voy a hacer de proyecto? (clase 2).
 1. Diseñar un [_wireframe_](https://jonmircha.com/img/wireframe.jpg) del _home_ de mi sitio versión (_mobile_ y _desktop_) (clase 2).
+1. Maquetar (versión _alfa_) la interfaz común de su sitio _web_ y definir el menú de tu sitio (Cabecera, menús, logos, pié de página etc.) (clase 3)
 
 | Estudiante        | Actividad 1 | Actividad 2 | Actividad 3 |
 | ----------------- | ----------- | ----------- | ----------- |
-| Laura Olmos       | 🤓          |             |             |
-| Natalia Velázquez | 🤔          |             |             |
+| Laura Olmos       | 🤓          | 🤓          | 🤓          |
+| Natalia Velázquez | 🤔          | 🤓          | 🤓          |
 | Edrei Pardo       | 😬          |             |             |
-| Adrian Castro     | 🤓          |             |             |
-| Ignacio Rivera    | 🤓          |             |             |
-| Martha Tejeda     | 🤔          |             |             |
+| Adrian Castro     | 🤓          | 🤓          | 🤓          |
+| Ignacio Rivera    | 🤓          | 🤓          | 🤓          |
+| Martha Tejeda     | 🤔          | 🤓          | 🤓          |
 | Isela Bernal      | 🤔          |             |             |
 | Perla Álvarez     | 😬          |             |             |
-| Guadalupe Sánchez | 🤔          |             |             |
+| Guadalupe Sánchez | 🤔          | 🤓          | 🤓          |
 
 ## Evaluación
 
