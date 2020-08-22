@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="utf-8">
+  <!--Import Google Icon Font-->
+  <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+  <!--Import materialize.css-->
+  <!-- Compiled and minified CSS -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">
+
+  <!--Let browser know website is optimized for mobile-->
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Demo Materialize</title>
+  <style>
+    .border {
+      border: thin solid #CCC;
+    }
+  </style>
+</head>
+
+<body>
+  <header>
+    <nav>
+      <div class="nav-wrapper">
+        <a href="#!" class="brand-logo">Logo</a>
+        <a href="#" data-target="mobile-demo" class="sidenav-trigger"><i class="material-icons">menu</i></a>
+        <ul class="right hide-on-med-and-down">
+          <li><a href="sass.html">Sass</a></li>
+          <li><a href="badges.html">Components</a></li>
+          <li><a href="collapsible.html">Javascript</a></li>
+          <li><a href="mobile.html">Mobile</a></li>
+        </ul>
+      </div>
+    </nav>
+
+    <ul class="sidenav" id="mobile-demo">
+      <li><a href="sass.html">Sass</a></li>
+      <li><a href="badges.html">Components</a></li>
+      <li><a href="collapsible.html">Javascript</a></li>
+      <li><a href="mobile.html">Mobile</a></li>
+    </ul>
+  </header>
+  <h1>Demo Materialize</h1>
+  <h2>Column Layout con Materiaize</h2>
+  <section class="row">
+    <article class="col s12 m6 l4 xl3 border">Elemento1</article>
+    <article class="col s12 m6 l4 xl3 border">Elemento2</article>
+    <article class="col s12 m6 l4 xl3 border">Elemento3</article>
+    <article class="col s12 m6 l4 xl3 border">Elemento4</article>
+    <article class="col s12 m6 l4 xl3 border">Elemento5</article>
+    <article class="col s12 m6 l4 xl3 border">Elemento6</article>
+    <article class="col s12 m6 l4 xl3 border">Elemento7</article>
+    <article class="col s12 m6 l4 xl3 border">Elemento8</article>
+    <article class="col s12 m6 l4 xl3 border">Elemento9</article>
+    <article class="col s12 m6 l4 xl3 border">Elemento10</article>
+    <article class="col s12 m6 l4 xl3 border">Elemento11</article>
+    <article class="col s12 m6 l4 xl3 border">Elemento12</article>
+    <article class="col s12 m6 l4 xl3 border">Elemento13</article>
+    <article class="col s12 m6 l4 xl3 border">Elemento14</article>
+    <article class="col s12 m6 l4 xl3 border">Elemento15</article>
+    <article class="col s12 m6 l4 xl3 border">Elemento16</article>
+    <article class="col s12 m6 l4 xl3 border">Elemento17</article>
+    <article class="col s12 m6 l4 xl3 border">Elemento18</article>
+    <article class="col s12 m6 l4 xl3 border">Elemento19</article>
+  </section>
+  <h2>Column Layout con Materiaize en Container</h2>
+  <div class="container">
+    <section class="row">
+      <article class="col s12 m6 l4 xl3 border">Elemento1</article>
+      <article class="col s12 m6 l4 xl3 border">Elemento2</article>
+      <article class="col s12 m6 l4 xl3 border">Elemento3</article>
+      <article class="col s12 m6 l4 xl3 border">Elemento4</article>
+      <article class="col s12 m6 l4 xl3 border">Elemento5</article>
+      <article class="col s12 m6 l4 xl3 border">Elemento6</article>
+      <article class="col s12 m6 l4 xl3 border">Elemento7</article>
+      <article class="col s12 m6 l4 xl3 border">Elemento8</article>
+      <article class="col s12 m6 l4 xl3 border">Elemento9</article>
+      <article class="col s12 m6 l4 xl3 border">Elemento10</article>
+      <article class="col s12 m6 l4 xl3 border">Elemento11</article>
+      <article class="col s12 m6 l4 xl3 border">Elemento12</article>
+      <article class="col s12 m6 l4 xl3 border">Elemento13</article>
+      <article class="col s12 m6 l4 xl3 border">Elemento14</article>
+      <article class="col s12 m6 l4 xl3 border">Elemento15</article>
+      <article class="col s12 m6 l4 xl3 border">Elemento16</article>
+      <article class="col s12 m6 l4 xl3 border">Elemento17</article>
+      <article class="col s12 m6 l4 xl3 border">Elemento18</article>
+      <article class="col s12 m6 l4 xl3 border">Elemento19</article>
+    </section>
+  </div>
+  <div class="carousel">
+    <a class="carousel-item" href="#one!"><img src="https://placeimg.com/400/400/animals"></a>
+    <a class="carousel-item" href="#two!"><img src="https://placeimg.com/400/400/arch"></a>
+    <a class="carousel-item" href="#three!"><img src="https://placeimg.com/400/400/tech"></a>
+    <a class="carousel-item" href="#four!"><img src="https://placeimg.com/400/400/nature"></a>
+    <a class="carousel-item" href="#five!"><img src="https://placeimg.com/400/400/people"></a>
+  </div>
+  <!--JavaScript at end of body for optimized loading-->
+  <!-- Compiled and minified JavaScript -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/js/materialize.min.js"></script>
+  <script>
+    document.addEventListener('DOMContentLoaded', function () {
+      var elems = document.querySelectorAll('.sidenav');
+      var instances = M.Sidenav.init(elems, {});
+    });
+
+    document.addEventListener('DOMContentLoaded', function () {
+      var elems = document.querySelectorAll('.carousel');
+      var instances = M.Carousel.init(elems, {
+        fullWidth: true
+      });
+    });
+  </script>
+</body>
+
+</html>

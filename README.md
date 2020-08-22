@@ -71,6 +71,9 @@ Repositorio de códigos de la generación 43 de la Maestría en Comunicación co
 - [Bulma](https://bulma.io/)
 - [Semantic UI](https://semantic-ui.com/)
 - [TailWind](https://tailwindcss.com/)
+- [Bootstrap Material Design](https://mdbootstrap.com/)
+- [Bootswatch](https://bootswatch.com/)
+- [Avant UI](https://www.avantui.com/)
 
 ## Actividades
 
