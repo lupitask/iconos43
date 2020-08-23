@@ -93,7 +93,7 @@ Escala de Actividades 🤓-🤔-😬-❌
 | Edrei Pardo       | ❌          | ❌          | ❌          |             |
 | Adrian Castro     | 🤓          | 🤓          | 🤓          |             |
 | Ignacio Rivera    | 🤓          | 🤓          | 🤓          |             |
-| Martha Tejeda     | 🤔          | 🤔          | 🤓          |             |
+| Martha Tejeda     | 🤔          | 🤓          | 🤓          |             |
 | Isela Bernal      | 🤔          | 🤓          | 🤓          |             |
 | Perla Álvarez     | ❌          | ❌          | ❌          |             |
 | Guadalupe Sánchez | 🤔          | 🤓          | 🤓          |             |
