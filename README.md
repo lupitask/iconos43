@@ -11,11 +11,11 @@ Repositorio de códigos de la generación 43 de la Maestría en Comunicación co
 ## [Estudiantes](https://docs.google.com/spreadsheets/d/1nUdUS1biBlY7-ZndOMcHlL5KbuRJFHb5w2wtwmuHFuU/edit?ts=5f37db52#gid=1890464159)
 
 - vdl.natalia@gmail.com
-- isela.bl@gmail.com
-- lauraolmos@outlook.com
-- martha.ptb@gmail.com
-- ignaciojrp@gmail.com
-- acastro.didg@gmail.com
+- isela.bl@gmail.com - [Github](https://github.com/IselaBL)
+- lauraolmos@outlook.com - [Github](https://github.com/lauraolmos)
+- martha.ptb@gmail.com - [Github](https://github.com/MarthaPtb/)
+- ignaciojrp@gmail.com - [Github](https://github.com/nachorp)
+- acastro.didg@gmail.com - [Github](https://github.com/AdrianCastro21)
 - adrian.edr@gmail.com
 - perla.vigueras@gmail.com
 
@@ -98,17 +98,17 @@ Escala de Actividades 🤓-🤔-😬-❌
 1. Entregar los contenidos comunes de tu sitio (Cabeceras, Menús, Pié de Págonas, etc) (clase 4).
 1. Definición del Menú de navegación definida (clase 4).
 
-| Estudiante        | Actividad 1 | Actividad 2 | Actividad 3 | Actividad 4 |
-| ----------------- | ----------- | ----------- | ----------- | ----------- |
-| Laura Olmos       | 🤓          | 🤓          | 🤓          |             |
-| Natalia Velázquez | 🤔          | 🤓          | 🤓          |             |
-| Edrei Pardo       | ❌          | ❌          | ❌          |             |
-| Adrian Castro     | 🤓          | 🤓          | 🤓          |             |
-| Ignacio Rivera    | 🤓          | 🤓          | 🤓          |             |
-| Martha Tejeda     | 🤔          | 🤓          | 🤓          |             |
-| Isela Bernal      | 🤔          | 🤓          | 🤓          |             |
-| Perla Álvarez     | ❌          | ❌          | ❌          |             |
-| Guadalupe Sánchez | 🤔          | 🤓          | 🤓          |             |
+| Estudiante        | Actividad 1 | Actividad 2 | Actividad 3 | Actividad 4 | Actividad 5 | Actividad 6 | Actividad 7 |
+| ----------------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
+| Laura Olmos       | 🤓          | 🤓          | 🤓          | 🤔          |             |             |             |
+| Natalia Velázquez | 🤔          | 🤓          | 🤓          | ❌          |             |             |             |
+| Edrei Pardo       | ❌          | ❌          | ❌          | ❌          |             |             |             |
+| Adrian Castro     | 🤓          | 🤓          | 🤓          | 🤔          |             |             |             |
+| Ignacio Rivera    | 🤓          | 🤓          | 🤓          | 🤔          |             |             |             |
+| Martha Tejeda     | 🤔          | 🤓          | 🤓          | 🤓          |             |             |             |
+| Isela Bernal      | 🤔          | 🤓          | 🤓          | 🤔          |             |             |             |
+| Perla Álvarez     | ❌          | ❌          | ❌          | ❌          |             |             |             |
+| Guadalupe Sánchez | 🤔          | 🤓          | 🤓          | ❌          |             |             |             |
 
 ## Evaluación
 
