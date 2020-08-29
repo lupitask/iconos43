@@ -1,4 +1,84 @@
+/* ********** Custom Properties ********** */
+:root {
+  --first-color: rgb(217, 0, 98);
+  --first-alpha-color: rgba(217, 0, 98, 0.75);
+  --second-color: rgb(20, 25, 45);
+  --second-alpha-color: rgba(20, 25, 45, 0.75);
+  --third-color: rgb(80, 20, 100);
+  --third-alpha-color: rgba(80, 20, 100, 0.75);
+  --link-color: rgb(80, 158, 227);
+  --bg-color: rgb(245, 245, 245);
+  --bg-alpha-color: rgba(245, 245, 245, 0.75);
+  --navbar-height: 48px;
+  --font-family: "Raleway", sans-serif;
+}
+
+/* ********** Reset Styles ********** */
+body {
+  font-family: var(--font-family);
+}
+
+a {
+  color: var(--link-color);
+  transition: all 0.3 ease-out;
+}
+
+a:hover {
+  color: var(--first-color);
+}
+
+/* ********** Bootstrap Styles ********** */
+/* .container {
+  max-width: 1400px;
+} */
 .navbar-brand img {
   width: auto;
-  height: 4rem;
+  height: var(--navbar-height);
+}
+
+.nav-link {
+  color: var(--first-color) !important;
+  font-weight: bold;
+  transition: all 0.3s ease-out;
+}
+
+.nav-link:hover {
+  padding-left: 2rem;
+  color: var(--white) !important;
+  background-color: var(--first-alpha-color);
+}
+
+.dropdown-item {
+  color: var(--first-alpha-color);
+  font-weight: bold;
+  transition: all 0.3s ease-out;
+}
+
+.dropdown-item:hover {
+  color: var(--third-color);
+}
+
+/* ********** My Styles ********** */
+.bg-second-color {
+  background-color: var(--second-color);
+}
+
+/* ********** MediaQueries ********** */
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) {
+}
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) {
+}
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) {
+  .nav-link:hover {
+    background-color: transparent;
+  }
+}
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) {
 }

@@ -57,7 +57,7 @@
     </div>
   </nav>
   <main class="container flex-grow-1">
-    <h1>Contenido del Home</h1>
+    <h1>Contenido de la sección Contacto</h1>
   </main>
   <footer class="p-3 bg-second-color text-white">
     <div class="container">
@@ -91,9 +91,34 @@
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
     integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
     crossorigin="anonymous"></script>
-  <!-- Go to www.addthis.com/dashboard to customize your tools -->
-  <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5b5bbc1dfbb57698"></script>
+  <!-- Start of Async Drift Code -->
+  <script>
+    "use strict";
 
+    !function () {
+      var t = window.driftt = window.drift = window.driftt || [];
+      if (!t.init) {
+        if (t.invoked) return void (window.console && console.error && console.error("Drift snippet included twice."));
+        t.invoked = !0, t.methods = ["identify", "config", "track", "reset", "debug", "show", "ping", "page", "hide", "off", "on"],
+          t.factory = function (e) {
+            return function () {
+              var n = Array.prototype.slice.call(arguments);
+              return n.unshift(e), t.push(n), t;
+            };
+          }, t.methods.forEach(function (e) {
+            t[e] = t.factory(e);
+          }), t.load = function (t) {
+            var e = 3e5, n = Math.ceil(new Date() / e) * e, o = document.createElement("script");
+            o.type = "text/javascript", o.async = !0, o.crossorigin = "anonymous", o.src = "https://js.driftt.com/include/" + n + "/" + t + ".js";
+            var i = document.getElementsByTagName("script")[0];
+            i.parentNode.insertBefore(o, i);
+          };
+      }
+    }();
+    drift.SNIPPET_VERSION = '0.3.1';
+    drift.load('cga87pv427td');
+  </script>
+  <!-- End of Async Drift Code -->
 </body>
 
 </html>

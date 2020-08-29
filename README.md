@@ -77,6 +77,14 @@ Repositorio de códigos de la generación 43 de la Maestría en Comunicación co
 - [CDN JS](https://cdnjs.cloudflare.com/)
 - [FontAwesome](https://fontawesome.com/)
 
+### Herramientas de _Marketing_ Digital
+
+- [AddThis](https://www.addthis.com/)
+- [Drift](https://www.drift.com/)
+- [Disqus](https://disqus.com/)
+- [Tiny Letter](https://tinyletter.com/)
+- [FormSubmit](https://formsubmit.co/)
+
 ## Actividades
 
 Escala de Actividades 🤓-🤔-😬-❌
@@ -84,7 +92,10 @@ Escala de Actividades 🤓-🤔-😬-❌
 1. Prueba de maquetación _web_ (clase 1).
 1. ¿Qué voy a hacer de proyecto? (clase 2).
 1. Diseñar un [_wireframe_](https://jonmircha.com/img/wireframe.jpg) del _home_ de mi sitio versión (_mobile_ y _desktop_) (clase 2).
-1. Maquetar (versión _alfa_) la interfaz común de su sitio _web_ y definir el menú de tu sitio (Cabecera, menús, logos, pié de página etc.) (clase 3)
+1. Maquetar (versión _alfa_) la interfaz común de su sitio _web_ y definir el menú de tu sitio (Cabecera, menús, logos, pié de página etc.) (clase 3).
+1. Entregar la maquetación final (estilos CSS, tipografías, paleta de colores, etc.) de tu _UI_ común (clase 4).
+1. Entregar los contenidos comunes de tu sitio (Cabeceras, Menús, Pié de Págonas, etc) (clase 4).
+1. Definición del Menú de navegación definida (clase 4).
 
 | Estudiante        | Actividad 1 | Actividad 2 | Actividad 3 | Actividad 4 |
 | ----------------- | ----------- | ----------- | ----------- | ----------- |
