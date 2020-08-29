@@ -17,6 +17,7 @@ Repositorio de códigos de la generación 43 de la Maestría en Comunicación co
 - ignaciojrp@gmail.com
 - acastro.didg@gmail.com
 - adrian.edr@gmail.com
+- perla.vigueras@gmail.com
 
 ## Estructuras para el diseño de interfaces Web
 
