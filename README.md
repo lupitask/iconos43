@@ -88,7 +88,12 @@ Repositorio de códigos de la generación 43 de la Maestría en Comunicación co
 
 ## Actividades
 
-Escala de Actividades 🤓-🤔-😬-❌
+### Escala de Actividades:
+
+- 🤓 = Vas muy bien.
+- 🤔 = Vas bien pero tienes que trabajar en algunos detalles.
+- 😬 = Tienes mucho que mejorar.
+  -❌ = No entregaste la actividad o entregaste algo diferente a lo solicitado.
 
 1. Prueba de maquetación _web_ (clase 1).
 1. ¿Qué voy a hacer de proyecto? (clase 2).
@@ -104,7 +109,7 @@ Escala de Actividades 🤓-🤔-😬-❌
 | Natalia Velázquez | 🤔          | 🤓          | 🤓          | ❌          |             |             |             |
 | Edrei Pardo       | ❌          | ❌          | ❌          | ❌          |             |             |             |
 | Adrian Castro     | 🤓          | 🤓          | 🤓          | 🤔          |             |             |             |
-| Ignacio Rivera    | 🤓          | 🤓          | 🤓          | 🤔          |             |             |             |
+| Ignacio Rivera    | 🤓          | 🤓          | 🤓          | 😬          |             |             |             |
 | Martha Tejeda     | 🤔          | 🤓          | 🤓          | 🤓          |             |             |             |
 | Isela Bernal      | 🤔          | 🤓          | 🤓          | 🤔          |             |             |             |
 | Perla Álvarez     | ❌          | ❌          | ❌          | ❌          |             |             |             |
