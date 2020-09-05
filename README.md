@@ -94,6 +94,11 @@ Repositorio de códigos de la generación 43 de la Maestría en Comunicación co
 - 🤔 = Vas bien pero tienes que trabajar en algunos detalles.
 - 😬 = Tienes mucho que mejorar.
 - ❌ = No entregaste la actividad o entregaste algo diferente a lo solicitado.
+- ⏳ = Entrega atrasada.
+- PA = Promedio Actividades
+- SW = Sitio Web
+- A = Asistencia
+- CF = Calificación Final
 
 1. Prueba de maquetación _web_ (clase 1).
 1. ¿Qué voy a hacer de proyecto? (clase 2).
@@ -104,17 +109,17 @@ Repositorio de códigos de la generación 43 de la Maestría en Comunicación co
 1. Definición del Menú de navegación definida (clase 4).
 1. Maquetación _Bootstrap_ de la sección comencemos (clase 5).
 
-| Estudiante        | Actividad 1 | Actividad 2 | Actividad 3 | Actividad 4 | Actividad 5 | Actividad 6 | Actividad 7 |
-| ----------------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
-| Laura Olmos       | 🤓          | 🤓          | 🤓          | 🤔          |             |             |             |
-| Natalia Velázquez | 🤔          | 🤓          | 🤓          | ❌          |             |             |             |
-| Edrei Pardo       | ❌          | ❌          | ❌          | ❌          |             |             |             |
-| Adrian Castro     | 🤓          | 🤓          | 🤓          | 🤔          | 🤓          | 🤓          | 🤓          |
-| Ignacio Rivera    | 🤓          | 🤓          | 🤓          | 😬          |             |             |             |
-| Martha Tejeda     | 🤔          | 🤓          | 🤓          | 🤓          | 🤓          | 🤓          | 🤓          |
-| Isela Bernal      | 🤔          | 🤓          | 🤓          | 🤔          | 🤓          | 🤓          | 🤓          |
-| Perla Álvarez     | ❌          | ❌          | ❌          | ❌          |             |             |             |
-| Guadalupe Sánchez | 🤔          | 🤓          | 🤓          | ❌          |             |             |             |
+| Estudiante        | A1  | A2  | A3  | A4  | A5  | A6  | A7  | A8  | PA  | SW  | A   | CF  |
+| ----------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Laura Olmos       | 🤓  | 🤓  | 🤓  | 🤔  | 🤓  | 🤓  | 🤓  |     |     |     |     |     |
+| Natalia Velázquez | 🤔  | 🤓  | 🤓  | ❌  | ❌  | ❌  | ❌  |     |     |     |     |     |
+| Edrei Pardo       | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |     |     |     |     |     |
+| Adrian Castro     | 🤓  | 🤓  | 🤓  | 🤔  | 🤓  | 🤓  | 🤓  |     |     |     |     |     |
+| Ignacio Rivera    | 🤓  | 🤓  | 🤓  | 😬  | 😬  | 😬  | 😬  |     |     |     |     |     |
+| Martha Tejeda     | 🤔  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  |     |     |     |     |     |
+| Isela Bernal      | 🤔  | 🤓  | 🤓  | 🤔  | 🤓  | 🤓  | 🤓  |     |     |     |     |     |
+| Perla Álvarez     | ❌  | ⏳  | ⏳  | ❌  | ❌  | ❌  | ❌  |     |     |     |     |     |
+| Guadalupe Sánchez | 🤔  | 🤓  | 🤓  | ❌  | ❌  | ❌  | ❌  |     |     |     |     |     |
 
 ## Evaluación
 
