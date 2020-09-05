@@ -102,6 +102,7 @@ Repositorio de códigos de la generación 43 de la Maestría en Comunicación co
 1. Entregar la maquetación final (estilos CSS, tipografías, paleta de colores, etc.) de tu _UI_ común (clase 4).
 1. Entregar los contenidos comunes de tu sitio (Cabeceras, Menús, Pié de Págonas, etc) (clase 4).
 1. Definición del Menú de navegación definida (clase 4).
+1. Maquetación _Bootstrap_ de la sección comencemos (clase 5).
 
 | Estudiante        | Actividad 1 | Actividad 2 | Actividad 3 | Actividad 4 | Actividad 5 | Actividad 6 | Actividad 7 |
 | ----------------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- | ----------- |
