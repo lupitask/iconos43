@@ -108,10 +108,10 @@ Repositorio de códigos de la generación 43 de la Maestría en Comunicación co
 | Laura Olmos       | 🤓          | 🤓          | 🤓          | 🤔          |             |             |             |
 | Natalia Velázquez | 🤔          | 🤓          | 🤓          | ❌          |             |             |             |
 | Edrei Pardo       | ❌          | ❌          | ❌          | ❌          |             |             |             |
-| Adrian Castro     | 🤓          | 🤓          | 🤓          | 🤔          |             |             |             |
+| Adrian Castro     | 🤓          | 🤓          | 🤓          | 🤔          | 🤓          | 🤓          | 🤓          |
 | Ignacio Rivera    | 🤓          | 🤓          | 🤓          | 😬          |             |             |             |
-| Martha Tejeda     | 🤔          | 🤓          | 🤓          | 🤓          |             |             |             |
-| Isela Bernal      | 🤔          | 🤓          | 🤓          | 🤔          |             |             |             |
+| Martha Tejeda     | 🤔          | 🤓          | 🤓          | 🤓          | 🤓          | 🤓          | 🤓          |
+| Isela Bernal      | 🤔          | 🤓          | 🤓          | 🤔          | 🤓          | 🤓          | 🤓          |
 | Perla Álvarez     | ❌          | ❌          | ❌          | ❌          |             |             |             |
 | Guadalupe Sánchez | 🤔          | 🤓          | 🤓          | ❌          |             |             |             |
 
