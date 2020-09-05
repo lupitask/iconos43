@@ -97,6 +97,7 @@ Repositorio de códigos de la generación 43 de la Maestría en Comunicación co
 - ⏳ = Entrega atrasada.
 - PA = Promedio Actividades
 - SW = Sitio Web
+- PF = Promedio Final
 - A = Asistencia
 - CF = Calificación Final
 
@@ -109,17 +110,17 @@ Repositorio de códigos de la generación 43 de la Maestría en Comunicación co
 1. Definición del Menú de navegación definida (clase 4).
 1. Maquetación _Bootstrap_ de la sección comencemos (clase 5).
 
-| Estudiante        | A1  | A2  | A3  | A4  | A5  | A6  | A7  | A8  | PA  | SW  | A   | CF  |
-| ----------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Laura Olmos       | 🤓  | 🤓  | 🤓  | 🤔  | 🤓  | 🤓  | 🤓  |     |     |     |     |     |
-| Natalia Velázquez | 🤔  | 🤓  | 🤓  | ❌  | ❌  | ❌  | ❌  |     |     |     |     |     |
-| Edrei Pardo       | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |     |     |     |     |     |
-| Adrian Castro     | 🤓  | 🤓  | 🤓  | 🤔  | 🤓  | 🤓  | 🤓  |     |     |     |     |     |
-| Ignacio Rivera    | 🤓  | 🤓  | 🤓  | 😬  | 😬  | 😬  | 😬  |     |     |     |     |     |
-| Martha Tejeda     | 🤔  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  |     |     |     |     |     |
-| Isela Bernal      | 🤔  | 🤓  | 🤓  | 🤔  | 🤓  | 🤓  | 🤓  |     |     |     |     |     |
-| Perla Álvarez     | ❌  | ⏳  | ⏳  | ❌  | ❌  | ❌  | ❌  |     |     |     |     |     |
-| Guadalupe Sánchez | 🤔  | 🤓  | 🤓  | ❌  | ❌  | ❌  | ❌  |     |     |     |     |     |
+| Estudiante        | A1  | A2  | A3  | A4  | A5  | A6  | A7  | A8  | PA  | SW  | PF  | A   | CF  |
+| ----------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Laura Olmos       | 🤓  | 🤓  | 🤓  | 🤔  | 🤓  | 🤓  | 🤓  |     |     |     |     |     |     |
+| Natalia Velázquez | 🤔  | 🤓  | 🤓  | ❌  | ❌  | ❌  | ❌  |     |     |     |     |     |     |
+| Edrei Pardo       | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |     |     |     |     |     |     |
+| Adrian Castro     | 🤓  | 🤓  | 🤓  | 🤔  | 🤓  | 🤓  | 🤓  |     |     |     |     |     |     |
+| Ignacio Rivera    | 🤓  | 🤓  | 🤓  | 😬  | 😬  | 😬  | 😬  |     |     |     |     |     |     |
+| Martha Tejeda     | 🤔  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  |     |     |     |     |     |     |
+| Isela Bernal      | 🤔  | 🤓  | 🤓  | 🤔  | 🤓  | 🤓  | 🤓  |     |     |     |     |     |     |
+| Perla Álvarez     | ❌  | ⏳  | ⏳  | ❌  | ❌  | ❌  | ❌  |     |     |     |     |     |     |
+| Guadalupe Sánchez | 🤔  | 🤓  | 🤓  | ❌  | ❌  | ❌  | ❌  |     |     |     |     |     |     |
 
 ## Evaluación
 
