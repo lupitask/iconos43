@@ -56,6 +56,7 @@ Repositorio de códigos de la generación 43 de la Maestría en Comunicación co
 
 ## Recursos
 
+- [HTML Reference](https://htmlreference.io/)
 - [CSS Reference](https://cssreference.io/)
 - [Configuración de VSCode](https://jonmircha.com/vscode)
 - [Emmet.io](https://emmet.io/)
