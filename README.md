@@ -89,19 +89,6 @@ Repositorio de códigos de la generación 43 de la Maestría en Comunicación co
 
 ## Actividades
 
-### Escala de Actividades:
-
-- 🤓 = Vas muy bien.
-- 🤔 = Vas bien pero tienes que trabajar en algunos detalles.
-- 😬 = Tienes mucho que mejorar.
-- ❌ = No entregaste la actividad o entregaste algo diferente a lo solicitado.
-- ⏳ = Entrega atrasada.
-- PA = Promedio Actividades
-- SW = Sitio Web
-- PF = Promedio Final
-- F = Faltas
-- CF = Calificación Final
-
 1. Prueba de maquetación _web_ (clase 1).
 1. ¿Qué voy a hacer de proyecto? (clase 2).
 1. Diseñar un [_wireframe_](https://jonmircha.com/img/wireframe.jpg) del _home_ de mi sitio versión (_mobile_ y _desktop_) (clase 2).
@@ -110,18 +97,6 @@ Repositorio de códigos de la generación 43 de la Maestría en Comunicación co
 1. Entregar los contenidos comunes de tu sitio (Cabeceras, Menús, Pié de Págonas, etc) (clase 4).
 1. Definición del Menú de navegación definida (clase 4).
 1. Maquetación _Bootstrap_ de la sección comencemos (clase 5).
-
-| Estudiante        | A1  | A2  | A3  | A4  | A5  | A6  | A7  | A8  | PA    | SW  | PF  | F   | CF  |
-| ----------------- | --- | --- | --- | --- | --- | --- | --- | --- | ----- | --- | --- | --- | --- |
-| Laura Olmos       | 🤓  | 🤓  | 🤓  | 🤔  | 🤓  | 🤓  | 🤓  | 🤓  | 5     |     |     | 0   |     |
-| Natalia Velázquez | 🤔  | 🤓  | 🤓  | ❌  | ❌  | ❌  | ❌  | 🤓  | 2.5   |     |     | 0   |     |
-| Edrei Pardo       | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | 0     | 0   | 0   | 4   | 0   |
-| Adrian Castro     | 🤓  | 🤓  | 🤓  | 🤔  | 🤓  | 🤓  | 🤓  | 🤓  | 5     |     |     | 0   |     |
-| Ignacio Rivera    | 🤓  | 🤓  | 🤓  | 😬  | 😬  | 😬  | 😬  | 🤓  | 5     |     |     | 0   |     |
-| Martha Tejeda     | 🤔  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 5     |     |     | 0   |     |
-| Isela Bernal      | 🤔  | 🤓  | 🤓  | 🤔  | 🤓  | 🤓  | 🤓  | 🤓  | 5     |     |     | 0   |     |
-| Perla Álvarez     | ❌  | ⏳  | ⏳  | ❌  | ❌  | ❌  | ❌  | ❌  | 1.25  |     |     | 1   |     |
-| Guadalupe Sánchez | 🤔  | 🤓  | 🤓  | ❌  | ❌  | ❌  | ❌  | ❌  | 1.875 |     |     | 0   |     |
 
 ## Evaluación
 
@@ -138,3 +113,30 @@ Repositorio de códigos de la generación 43 de la Maestría en Comunicación co
   - **5%** Implementar 2 elementos de _Marketing Digital_ en el sitio _web_.
   - **10%** El código del sitio debe entregarse en un repositorio de _GitHub_, en la rama **master**.
   - **5%** El sitio debe ser desplegado para visualizarse en un repositorio de _GitHub_, en la rama **gh-pages**.
+
+## Calificaciones
+
+### Nomenclatura:
+
+- 🤓 = Vas muy bien.
+- 🤔 = Vas bien pero tienes que trabajar en algunos detalles.
+- 😬 = Tienes mucho que mejorar.
+- ❌ = No entregaste la actividad o entregaste algo diferente a lo solicitado.
+- ⏳ = Entrega atrasada.
+- PA = Promedio de Actividades.
+- PP = Promedio del Proyecto final.
+- PF = Promedio Final
+- F = Faltas, por reglamento de ICONOS, los estudiantes que tengan una falta no pueden ser evaluados con 10, con 2 faltas estás reprobado.
+- CF = Calificación Final
+
+| Estudiante        | A1  | A2  | A3  | A4  | A5  | A6  | A7  | A8  | PA    | PP  | PF  | F   | CF  |
+| ----------------- | --- | --- | --- | --- | --- | --- | --- | --- | ----- | --- | --- | --- | --- |
+| Laura Olmos       | 🤓  | 🤓  | 🤓  | 🤔  | 🤓  | 🤓  | 🤓  | 🤓  | 5     |     |     | 0   |     |
+| Natalia Velázquez | 🤔  | 🤓  | 🤓  | ❌  | ❌  | ❌  | ❌  | 🤓  | 2.5   |     |     | 0   |     |
+| Edrei Pardo       | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | 0     | 0   | 0   | 4   | 0   |
+| Adrian Castro     | 🤓  | 🤓  | 🤓  | 🤔  | 🤓  | 🤓  | 🤓  | 🤓  | 5     |     |     | 0   |     |
+| Ignacio Rivera    | 🤓  | 🤓  | 🤓  | 😬  | 😬  | 😬  | 😬  | 🤓  | 5     |     |     | 0   |     |
+| Martha Tejeda     | 🤔  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 5     |     |     | 0   |     |
+| Isela Bernal      | 🤔  | 🤓  | 🤓  | 🤔  | 🤓  | 🤓  | 🤓  | 🤓  | 5     |     |     | 0   |     |
+| Perla Álvarez     | ❌  | ⏳  | ⏳  | ❌  | ❌  | ❌  | ❌  | ❌  | 1.25  |     |     | 1   |     |
+| Guadalupe Sánchez | 🤔  | 🤓  | 🤓  | ❌  | ❌  | ❌  | ❌  | ❌  | 1.875 |     |     | 0   |     |
