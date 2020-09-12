@@ -125,9 +125,9 @@ Repositorio de códigos de la generación 43 de la Maestría en Comunicación co
 - ⏳ = Entrega atrasada.
 - **PA** = Promedio de Actividades.
 - **PP** = Promedio del Proyecto final.
-- **PF** = Promedio Final
+- **PF** = Promedio Final.
 - **F** = Faltas, por reglamento de ICONOS, los estudiantes que tengan una falta no pueden ser evaluados con 10, con 2 faltas estás reprobado.
-- **CF** = Calificación Final
+- **CF** = Calificación Final.
 
 | Estudiante        | A1  | A2  | A3  | A4  | A5  | A6  | A7  | A8  | PA    | PP  | PF  | F   | CF  |
 | ----------------- | --- | --- | --- | --- | --- | --- | --- | --- | ----- | --- | --- | --- | --- |
