@@ -99,7 +99,7 @@ Repositorio de códigos de la generación 43 de la Maestría en Comunicación co
 - PA = Promedio Actividades
 - SW = Sitio Web
 - PF = Promedio Final
-- A = Asistencia
+- F = Faltas
 - CF = Calificación Final
 
 1. Prueba de maquetación _web_ (clase 1).
@@ -111,17 +111,17 @@ Repositorio de códigos de la generación 43 de la Maestría en Comunicación co
 1. Definición del Menú de navegación definida (clase 4).
 1. Maquetación _Bootstrap_ de la sección comencemos (clase 5).
 
-| Estudiante        | A1  | A2  | A3  | A4  | A5  | A6  | A7  | A8  | PA  | SW  | PF  | A   | CF  |
-| ----------------- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
-| Laura Olmos       | 🤓  | 🤓  | 🤓  | 🤔  | 🤓  | 🤓  | 🤓  | 🤓  |     |     |     |     |     |
-| Natalia Velázquez | 🤔  | 🤓  | 🤓  | ❌  | ❌  | ❌  | ❌  |     |     |     |     |     |     |
-| Edrei Pardo       | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  |     |     |     |     |     |     |
-| Adrian Castro     | 🤓  | 🤓  | 🤓  | 🤔  | 🤓  | 🤓  | 🤓  | 🤓  |     |     |     |     |     |
-| Ignacio Rivera    | 🤓  | 🤓  | 🤓  | 😬  | 😬  | 😬  | 😬  |     |     |     |     |     |     |
-| Martha Tejeda     | 🤔  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  |     |     |     |     |     |
-| Isela Bernal      | 🤔  | 🤓  | 🤓  | 🤔  | 🤓  | 🤓  | 🤓  | 🤓  |     |     |     |     |     |
-| Perla Álvarez     | ❌  | ⏳  | ⏳  | ❌  | ❌  | ❌  | ❌  |     |     |     |     |     |     |
-| Guadalupe Sánchez | 🤔  | 🤓  | 🤓  | ❌  | ❌  | ❌  | ❌  |     |     |     |     |     |     |
+| Estudiante        | A1  | A2  | A3  | A4  | A5  | A6  | A7  | A8  | PA    | SW  | PF  | F   | CF  |
+| ----------------- | --- | --- | --- | --- | --- | --- | --- | --- | ----- | --- | --- | --- | --- |
+| Laura Olmos       | 🤓  | 🤓  | 🤓  | 🤔  | 🤓  | 🤓  | 🤓  | 🤓  | 5     |     |     | 0   |     |
+| Natalia Velázquez | 🤔  | 🤓  | 🤓  | ❌  | ❌  | ❌  | ❌  | 🤓  | 2.5   |     |     | 0   |     |
+| Edrei Pardo       | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | ❌  | 0     | 0   | 0   | 4   | 0   |
+| Adrian Castro     | 🤓  | 🤓  | 🤓  | 🤔  | 🤓  | 🤓  | 🤓  | 🤓  | 5     |     |     | 0   |     |
+| Ignacio Rivera    | 🤓  | 🤓  | 🤓  | 😬  | 😬  | 😬  | 😬  | 🤓  | 5     |     |     | 0   |     |
+| Martha Tejeda     | 🤔  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 🤓  | 5     |     |     | 0   |     |
+| Isela Bernal      | 🤔  | 🤓  | 🤓  | 🤔  | 🤓  | 🤓  | 🤓  | 🤓  | 5     |     |     | 0   |     |
+| Perla Álvarez     | ❌  | ⏳  | ⏳  | ❌  | ❌  | ❌  | ❌  | ❌  | 1.25  |     |     | 1   |     |
+| Guadalupe Sánchez | 🤔  | 🤓  | 🤓  | ❌  | ❌  | ❌  | ❌  | ❌  | 1.875 |     |     | 0   |     |
 
 ## Evaluación
 
